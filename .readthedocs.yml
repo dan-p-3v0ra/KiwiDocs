@@ -1,3 +1,8 @@
+build:
+  os: ubuntu-22.04
+  tools:
+    python: "3.12"
+
 site_name: Kiwi Docs
 nav:
   - Home: index.md
