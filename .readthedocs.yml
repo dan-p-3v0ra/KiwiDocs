@@ -9,12 +9,4 @@ build:
 
 mkdocs:
   configuration: mkdocs.yml
-site_name: Kiwi Docs
-nav:
-  - Home: index.md
-  - Carbon Scopes: scopes.md
-  - L/T Split: lt.md
-  - DQ: dq.md
-  - Portfolio & Dashboards: ui.md
-theme:
-  name: readthedocs
+
