@@ -6,4 +6,6 @@ Carbon Scopes, L/T split, DQ and Dashboard/Portfolio pages are featured in these
 <br>
 This was written using MkDocs, refer to their <a href="https://www.mkdocs.org">documentation</a> for information on how to use
 <br>
-To run locally after cloning/downloading, use the command prompt 'mkdocs serve' and it will open in localhost
+Installing dependencies should be donw with pip install requirements.txt
+<br>
+To run locally after this, use the command prompt 'mkdocs serve' and it will open in localhost
