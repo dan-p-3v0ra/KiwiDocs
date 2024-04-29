@@ -7,7 +7,7 @@ Energy consumption and water usage can be broken down into a Landlord and Tenant
 <br>
 Broadly speaking we attribute consumption to the <b>Tenant</b> when the meter is in the tenant space, otherwise it will be atrributes as a Landlord use.
 
-![Landlord/Tenant split allocation](img\lt.jpg "Landlord/Tenant split allocation")
+![Landlord/Tenant split allocation](img/lt.jpg "Landlord/Tenant split allocation")
 <br>
 
 ## Table of split
