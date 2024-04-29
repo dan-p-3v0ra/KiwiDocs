@@ -26,13 +26,12 @@ The revamped portfolio and dashboard pages were based on UX feedback, regarding 
 </ul>
 </p>
 <p>
-All these contain a bar showing the current period compared to the same previous the previous year. The charts are seperated into recycling vs non-recycling for the waste recycling, and otherwise are actual vs gapfill data.
-Below these we have larger tiles for:
+All these contain a bar showing the current period compared to the same previous the previous year. The charts are seperated into recycling vs non-recycling for the waste recycling, and otherwise are actual vs gapfill data. Below these we have larger tiles for:
 <ul>
-    <li>Data Quality
-    <li>EPC Analysis (fund only)
-    <li>NZC (fund only)
-    <li>Action Plans
+    <li>Data Quality</li>
+    <li>EPC Analysis (fund only)</li>
+    <li>NZC (fund only)</li>
+    <li>Action Plans</li>
 </ul>
 </p>
 
