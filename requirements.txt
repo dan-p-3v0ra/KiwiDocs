@@ -166,7 +166,7 @@ lmdb @ file:///C:/b/abs_556ronuvb2/croot/python-lmdb_1682522366268/work
 locket @ file:///C:/ci_311/locket_1676428325082/work
 lxml @ file:///C:/b/abs_9e7tpg2vv9/croot/lxml_1695058219431/work
 lz4 @ file:///C:/b/abs_064u6aszy3/croot/lz4_1686057967376/work
-Markdown @ file:///C:/ci_311/markdown_1676437912393/work
+Markdown==3.6
 markdown-it-py @ file:///C:/b/abs_a5bfngz6fu/croot/markdown-it-py_1684279915556/work
 MarkupSafe @ file:///C:/ci_311/markupsafe_1676424152318/work
 matplotlib @ file:///C:/b/abs_085jhivdha/croot/matplotlib-suite_1693812524572/work
@@ -179,6 +179,8 @@ mergedeep==1.3.4
 mistune @ file:///C:/ci_311/mistune_1676425149302/work
 mkdocs==1.6.0
 mkdocs-get-deps==0.2.0
+mkdocs-material==9.5.20
+mkdocs-material-extensions==1.3.1
 mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
 mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
 mkl-service==2.4.0
@@ -206,6 +208,7 @@ numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
 numpydoc @ file:///C:/ci_311/numpydoc_1676453412027/work
 openpyxl==3.0.10
 packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
+paginate==0.5.6
 pandas @ file:///C:/miniconda3/conda-bld/pandas_1692298018988/work
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 panel @ file:///C:/b/abs_a4rd7zrkc6/croot/panel_1695145945642/work
@@ -248,11 +251,12 @@ PyDispatcher==2.0.5
 pydocstyle @ file:///C:/ci_311/pydocstyle_1678402028085/work
 pyerfa @ file:///C:/ci_311/pyerfa_1676503994641/work
 pyflakes @ file:///C:/ci_311/pyflakes_1678402101687/work
-Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
+Pygments==2.17.2
 PyJWT @ file:///C:/ci_311/pyjwt_1676438890509/work
 pylint @ file:///C:/ci_311/pylint_1678740302984/work
 pylint-venv @ file:///C:/ci_311/pylint-venv_1678402170638/work
 pyls-spyder==0.4.0
+pymdown-extensions==10.8.1
 PyNaCl @ file:///C:/ci_311/pynacl_1676445861112/work
 pyodbc @ file:///C:/ci_311/pyodbc_1676489976744/work
 pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
