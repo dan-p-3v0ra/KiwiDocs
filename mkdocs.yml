@@ -3,8 +3,7 @@ site_name: Kiwi Docs
 theme:
   name: material
   favicon: img/favicon.ico
-  icon:
-    logo: img/favicon.ico
+  logo: img/favicon.ico
   palette:
      # Palette toggle for light mode
     - scheme: default
