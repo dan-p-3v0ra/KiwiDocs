@@ -34,7 +34,7 @@ Short summary is:
 This is <b>area-based</b>. Thus the coverage figure for a utility will be the sum of all meters for that utility (with reporting data in the period) divided by the larger of:
 <ul>
     <li>The asset GIA/NLA</li>
-    <li>The sum of the meters for that utility<li>
+    <li>The sum of the meters for that utility</li>
 </ul>
 For assigning this to landlord or tenant the same holds true but the divisors are dependant on the expected area the meters cover. We usually expect the landlord to cover any missing are, unless we explicity can see the asset has a gap in a tenant space or .
 
