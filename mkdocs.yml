@@ -3,15 +3,16 @@ site_name: Kiwi Docs
 theme:
   name: material
   palette:
-    primary: lime
-        # Palette toggle for light mode
+     # Palette toggle for light mode
     - scheme: default
+      primary: black
       toggle:
         icon: material/weather-night 
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
+      primary: lime
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
