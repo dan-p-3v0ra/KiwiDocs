@@ -15,9 +15,6 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
-    
-    primary: lime
-    accent: deep purple
   
 nav:
   - Home: index.md
