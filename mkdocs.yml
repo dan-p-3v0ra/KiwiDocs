@@ -1,10 +1,11 @@
 site_name: Kiwi Docs
+
+theme:
+  name: material
+  
 nav:
   - Home: index.md
   - Carbon Scopes: scopes.md
   - L/T Split: lt.md
   - DQ: dq.md
   - Portfolio & Dashboards: ui.md
-theme:
-  name: material
-
